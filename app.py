@@ -2,7 +2,7 @@
 """
 Created on Sun May 22 11:53:51 2022
 
-@author: Naman Kumar
+@author: Akshat Vedvias
 """
 # login page
 import pickle
