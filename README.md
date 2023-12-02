@@ -1,2 +1,2 @@
 # disease-prediction
-https://disease-predictions.streamlit.app/
+https://diseasepredictions.streamlit.app/
